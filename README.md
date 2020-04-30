@@ -15,3 +15,6 @@ Git collaboration workshop
 - 'git switch -c <branch_name>': create and move in 1 command
 	'git checkout -b <branch_name>'
 
+This is text that I haven't commited yet.
+
+- 'git stash': TEMP
