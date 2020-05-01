@@ -21,3 +21,5 @@ This is text that I haven't commited yet.
 - 'git stash list'
 - 'git stash apply'
 - 'git stash clear'
+
+Change to master and commited
