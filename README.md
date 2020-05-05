@@ -15,9 +15,10 @@ Git collaboration workshop
 - 'git switch -c <branch_name>': create and move in 1 command
 	'git checkout -b <branch_name>'
 
-This is text that I haven't commited yet.
-
 - 'git stash': To make a temporary commit to not lose changes before moving to other branches
-- 'git stash list'
-- 'git stash apply'
-- 'git stash clear'
+	'git stash apply' to apply the last stash from the stack
+	'git stash list'
+	'git stash clear'
+
+- 'git fetch --prune': To clean up inexistent references.
+
