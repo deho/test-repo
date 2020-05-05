@@ -20,4 +20,6 @@ This is text that I haven't commited yet.
 - 'git stash': To make a temporary commit to not lose changes before moving to other branches
 - 'git stash list'
 - 'git stash apply'
-- 'git stash clear'
+- 'git stash clear:
+
+This change is made on BR2
