@@ -20,14 +20,5 @@ Git collaboration workshop
 	'git stash list'
 	'git stash clear'
 
-## Pull requests (Online Merge)
-
-- 'git push origin <branch_name>': pushes branch to the remote
-	- this is where you will create the PR (online)
-	- you merge the PR (and also the branch) by accepting and merging the PR
-	- don't forget to clean up your branches
-- 'git fetch --prune': cleans up references in your 'git log --oneline --graph --all --decorate
-- 'git branch -d <branch_name>': delete branch on you local machine
-	- it will tell you to move to another branch (e.g., master) first
-
+- 'git fetch --prune': To clean up inexistent references.
 
