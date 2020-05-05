@@ -1,6 +1,4 @@
-# Repository to test tools 
-
-Git collaboration workshop
+#Git collaboration workshop
 
 - 'git clone <URL>': downloads the repository from the web to our compueter
 	- Make sure yo don't nest this command in another repository
