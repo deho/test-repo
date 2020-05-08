@@ -1,6 +1,6 @@
 # Git collaboration workshop
 
-- 'git clone <URL>': downloads the repository from the web to our compueter
+- 'git clone <URL>': downloads the repository from the web to our computer
 	- Make sure yo don't nest this command in another repository
 	- Just like 'git init´ do this only once per repository
 
