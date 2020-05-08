@@ -1,5 +1,6 @@
 B2: Change 1 -> committed on B2
 B2: Change 2 -> committed on B2
+B1: Step 1 ahead from master -> commited on B1
 
 #Git collaboration workshop
 
