@@ -1,5 +1,5 @@
 B2: Change 1 -> committed on B2
-
+B2: Change 2 -> committed on B2
 
 #Git collaboration workshop
 
