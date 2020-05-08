@@ -1,4 +1,4 @@
-Step 1 ahead from master: committed
+B2: Change 1 -> committed on B2
 
 
 #Git collaboration workshop
