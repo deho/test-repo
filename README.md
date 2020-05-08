@@ -1,9 +1,3 @@
-B2: Change 1 -> committed on B2
-B2: Change 2 -> committed on B2
-B1: Step 1 ahead from master -> commited on B1
-B1: Step 2 ahead from master -> commited on B1
-B1: Step 3 ahead from master -> commited on B1
-
 #Git collaboration workshop
 
 - 'git clone <URL>': downloads the repository from the web to our compueter
@@ -26,13 +20,20 @@ B1: Step 3 ahead from master -> commited on B1
 
 ## Pull requests (Online Merge)
 
-- 'git push origin <branch_name>': pushes branch to the remote
+- 'git push <remote> <branch_name>': pushes branch to the remote
 	- this is where you will create the PR (online)
 	- you merge the PR (and also the branch) by accepting and merging the PR
 	- don't forget to clean up your branches
 - 'git fetch --prune': cleans up references in your 'git log --oneline --graph --all --decorate
 - 'git branch -d <branch_name>': delete branch on you local machine
 	- it will tell you to move to another branch (e.g., master) first
+
+## Sinchronize branches by rebasing
+
+- 'git rebase <branch_name>: incorporates all changes committed in <branch_name> to the current branch
+	- 'git rebase --continue': to rebasing next commit
+	- 'git rebase --skip': to skip current commit (not sync this commit) to the next one
+	- 'git rebase --abort': to abort rebase operation restoring current branch state
 
 ## Working with Git steps
 
