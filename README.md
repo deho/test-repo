@@ -1,3 +1,6 @@
+Step 1 ahead from master: committed
+
+
 #Git collaboration workshop
 
 - 'git clone <URL>': downloads the repository from the web to our compueter
@@ -28,4 +31,16 @@
 - 'git branch -d <branch_name>': delete branch on you local machine
 	- it will tell you to move to another branch (e.g., master) first
 
+## Working with Git steps
 
+1. Create a new branch
+2. Edit the readme file (use the pr branch notes)
+	- add/commit changes
+3. Push the branch to the remote (github)
+4. Create the PR
+5. Look around
+6. Merge the PR
+7. Delete the branch on github
+8. Go to master on local computer
+9. Pull merged changes
+10. Clean up all the branches on github and computer
