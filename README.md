@@ -1,5 +1,8 @@
 # Git collaboration workshop
 
+### Additional info:
+	- Atlassian workflows explanation: https://www.atlassian.com/git/tutorials/comparing-workflows
+
 - 'git clone <URL>': downloads the repository from the web to our computer
 	- Make sure yo don't nest this command in another repository
 	- Just like 'git init´ do this only once per repository
